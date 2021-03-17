@@ -21,7 +21,7 @@
 ```
 ## If installed, remove the packages listed in the output of the previous step:
 ```
-# dnf erase python3-subscription-manager-rhsm-1.27.16-1.el8.x86_64 \
+# yum erase python3-subscription-manager-rhsm-1.27.16-1.el8.x86_64 \
 subscription-manager-rhsm-certificates-1.27.16-1.el8.x86_64 \
 subscription-manager-1.27.16-1.el8.x86_64 \
 dnf-plugin-subscription-manager-1.27.16-1.el8.x86_64
@@ -59,5 +59,5 @@ Red Hat Enterprise Linux release 8.3 (Ootpa)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzcyODAyXX0=
+eyJoaXN0b3J5IjpbMTk0ODA1NDE4OV19
 -->
