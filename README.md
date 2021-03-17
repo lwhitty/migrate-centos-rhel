@@ -57,10 +57,10 @@ https://sat01.example.org/pub/katello-ca-consumer-latest.noarch.rpm
 Red Hat Enterprise Linux release 8.3 (Ootpa)
 ```
 ## Notes:
-- This procedure was successfully tested on CentOS 7 and CentOS 8 systems
-- This procedure work
+- This procedure was successfully tested on CentOS Linux 7 and CentOS Linux 8 systems
+- This procedure worked on CentOS Stream 8 systems after modifying /etc/system-release to match a CentOS Linux 8 system
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDQ1OTgzNywxOTQ4MDU0MTg5XX0=
+eyJoaXN0b3J5IjpbODkyMjIxODA0LDE5NDgwNTQxODldfQ==
 -->
